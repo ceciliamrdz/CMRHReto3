@@ -9,3 +9,4 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 
 ## Tecnologías
 - Java SpringBoot
+- "Este es un hotfix crítico para feature1"
